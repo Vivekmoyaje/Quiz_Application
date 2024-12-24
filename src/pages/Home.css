@@ -1,0 +1,14 @@
+input {
+  border-color: orangered;
+  border-width: 1px;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  padding: 4px 5px;
+}
+button {
+  border: none;
+  background-color: rgb(255, 92, 33);
+  color: white;
+  padding: 4px 20px;
+  font-size: 0.9rem;
+}
